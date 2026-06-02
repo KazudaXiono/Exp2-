@@ -1,0 +1,6 @@
+{
+  "name": "Cloud",
+  "description": "Comprehensive client side operations tool centering PDF compression, live vector QR generation, Zip maker, Space gravity sim, Nepalese area conversion and fun cosmos facts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
